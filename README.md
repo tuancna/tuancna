@@ -1,3 +1,1 @@
-### Hi there, I'm Tuan Chung
-
-<marquee>mmm</marquee>
+# Xin chào, mình là Chung Nguyễn Anh Tuấn
